@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Arbaba Store</string>
+    <string name="offline_title">اینترنت در دسترس نیست</string>
+    <string name="offline_message">اتصال اینترنت را بررسی کنید و دوباره تلاش کنید.</string>
+    <string name="retry">تلاش دوباره</string>
+    <string name="home">خانه</string>
+    <string name="categories">دسته‌بندی</string>
+    <string name="search">جست‌وجو</string>
+    <string name="cart">سبد خرید</string>
+    <string name="account">حساب من</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="refresh">تازه‌سازی</string>
+</resources>
